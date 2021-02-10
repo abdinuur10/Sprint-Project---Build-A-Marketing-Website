@@ -11,3 +11,27 @@
 5. Console.log the result.
 
 */
+let myfristNumber = prompt("enter your number");
+let mysecondNumber = prompt("enter your number");
+let mythirdNumber = prompt("+,-,*,%");
+let numreslt = prompt("");
+if (mythirdNumber)("+"){ 
+    console.log("addition")
+}
+ else if (mythirdNumber)("-") {
+    console.log("subtraction")
+}
+else if (mythirdNumber)("*") {
+    console.log("multiply")
+}
+
+else if (mythirdNumber)("%") {
+    console.log("division")
+ } else{
+     console.log("result")
+ }
+
+
+
+
+
