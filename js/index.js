@@ -11,27 +11,22 @@
 5. Console.log the result.
 
 */
-let myfristNumber = prompt("enter your number");
-let mysecondNumber = prompt("enter your number");
-let mythirdNumber = prompt("+,-,*,%");
-let numreslt = prompt("");
-if (mythirdNumber)("+"){ 
-    console.log("addition")
+const operator = prompt('Enter operator ( either +, -, * or / ): ');
+const number1 = parseFloat(prompt('Enter first number: '));
+const number2 = parseFloat(prompt('Enter second number: '));
+
+let result;
+
+if (operator == '+') {
+    result = number1 + number2;
 }
- else if (mythirdNumber)("-") {
-    console.log("subtraction")
+else if (operator == '-') {
+    result = number1 - number2;
 }
-else if (mythirdNumber)("*") {
-    console.log("multiply")
+else if (operator == '*') {
+    result = number1 * number2;
 }
-
-else if (mythirdNumber)("%") {
-    console.log("division")
- } else{
-     console.log("result")
- }
-
-
-
-
-
+else {
+    result = number1 / number2;
+}
+console.log(`${number1} ${operator} ${number2} = ${result}`);
