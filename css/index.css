@@ -153,8 +153,7 @@ p {
       margin-left: 4%;
 }
 .img-hero {
-  width: 1200px;
-  max-width: 100px;
+  width: 100%;
   
 }
 h4{
@@ -208,4 +207,8 @@ input{
   color: black;
   background-color: rgb(210, 87, 18);
   font-size: medium;
+}
+.topheader{ 
+  display:flex;
+  align-items:center;
 }
