@@ -1,7 +1,7 @@
 # Sprint Project: Build A Marketing Website
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
-
+I MADE A CHANGE
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. During this Sprint, you studied semantic HTML, CSS, git, responsive design and some Javascript. In your project this week, you will demonstrate proficiency by creating a fully responsive website that has some missing sections as well as some Javascript problems that need to be solved.
 
 This is an individual assignment. All work must be your own. Your project score is a measure of your ability to work independently using the material covered through this sprint. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
