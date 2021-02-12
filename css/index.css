@@ -72,15 +72,30 @@ h1, h2, h3, h4, h5 {
 
 h2 {
   font-size: 3.2rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  float: center;
+  padding: 50px;
+  font-weight:900
 }
 
 h3 {
-  font-size: 2.8rem;
+  font-size: 3.0rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  height: 33%;
+  font-weight: bold;
 }
 
+
+
 p {
+  width: 100;
   font-size: 1.6rem;
-  line-height: 1.4;
+  line-height: 1.5;
+  padding-right: 70px;
+  margin: 10px;
+  line-height: 20px;
 }
 
 .container {
@@ -88,6 +103,7 @@ p {
   width: 100%;
   margin: 0 auto;  
 }
+
 
 .attraction-images {
     display: flex;
@@ -135,4 +151,64 @@ p {
 .visit-africa .visit-form {
     width: 46%;
       margin-left: 4%;
+}
+.img-hero {
+  width: 100%;
+  
+}
+h4{
+  font-size: 4.2rem;
+  width: 100%;
+  float: right;
+  padding: 50px;
+  font-weight:bold;
+  font-stretch: expanded;
+}
+
+nav-title nav{
+  display: inline;
+  float:right;
+  font-size: medium;
+  }
+
+.container{
+  display: flexbox;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  min-height: auto;
+}
+.btn-1{
+  width: 150px;
+  height: 50px;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  background-color: rgb(210, 87, 18);
+  font-size: medium;
+}
+input{
+  height: 100px;
+  width: 300px;
+  background: white;
+  height: 50px;
+  margin: 15px 20px;
+  border-radius: 5px;
+  text-align: justify;
+  border-style:solid;
+}
+
+.btn-2{
+  width: 150px;
+  height: 50px;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  background-color: rgb(210, 87, 18);
+  font-size: medium;
+}
+.topheader{ 
+  display:flex;
+  align-items:center;
 }

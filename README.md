@@ -1,7 +1,7 @@
 # Sprint Project: Build A Marketing Website
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
-
+I MADE A CHANGE
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. During this Sprint, you studied semantic HTML, CSS, git, responsive design and some Javascript. In your project this week, you will demonstrate proficiency by creating a fully responsive website that has some missing sections as well as some Javascript problems that need to be solved.
 
 This is an individual assignment. All work must be your own. Your project score is a measure of your ability to work independently using the material covered through this sprint. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
@@ -33,15 +33,22 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+    Semantic HTML is markup that introduces meaning to the web page rather than just presentation, such as header, article, navigation, footer, section etc. The benefit of writing semantic HTML is that it is driven by the goals of any web page and the desire to communicate when adding a tag of specific sections.
 
 2. What are the 4 areas of the box model?
+    There four components of the box model are content area, which content the element such as text, an image or a video. 
+Padding area, which extends the content area to include the element’s padding.
+Boarding area in which area dimensions by the border edge, and also  border-box width and the border-box height.
+Margin area, it extends the border area to include an empty area used to separate the element from margin.
 
 3. What command do you use in git to copy files from Github?
-
+    The command that area uses in git to copy files from Github the git clone command which copies repository from Github to local computer.
 4. Explain why git is valuable to a team of developers.
+    Git it’s so important to a team leader becuase it offers the type of performance such as functionality, security and flexibility that most of the developers and teams help them to develop their project. 
 
 5. What is the difference between Git and Github?.
-
+    Git is a version control system that lets you manage and keep track of the source code. Github is a cloud-based host service that lets you manage git repositories. 
+    
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Project grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Instructions
